@@ -4,7 +4,8 @@ A shooting game built using CanvasJS library in javascript
 
 # How to run
 
-Clone the repo and open the index.html in your browser to run and the game will start
+Clone the repo and open the index.html in your browser to run and the game will start.
+You have to keep shooting the balls and avoid them from falling on the cannon
 
 
 
